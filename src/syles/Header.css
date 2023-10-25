@@ -1,0 +1,40 @@
+.header {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.HeaderBrand {
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+
+.header__left {
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px;
+    width: 50%;
+}
+
+.header__right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+/* CSS */
+
+.headerContact, .headerAbout , .signBtn, .Adminbtn {
+  align-items: center;
+  box-sizing: border-box;
+  text-decoration: none;
+  color: black;
+  margin: 20px;
+  font-size: 20px;
+}
+
+/* ================ MEDIA QUERIES ================ */

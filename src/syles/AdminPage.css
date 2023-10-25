@@ -1,0 +1,15 @@
+.adminMain {
+    display: flex;
+    padding: 0 250px;
+    margin: auto;
+}
+
+.card-body {
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+.manageJobs, .manageServices {
+    margin-left: 10px;
+}

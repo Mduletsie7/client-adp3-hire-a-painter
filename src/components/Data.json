@@ -1,0 +1,53 @@
+[
+    {
+        "painterId": "1",
+        "firstName": "Mdumisi Kelvin",
+        "lastName": "Letsie",
+        "phoneNumber": "0865534231",
+        "email": "steveboss@gmail.com",
+        "streetAddress": "4 Test Road",
+        "city": "Cape Town",
+        "province": "WC",
+        "postalCode": "6641",
+        "description": "A highly skilled painter specializing in interior walls",
+        "image": "mdu.jpeg"
+    },
+    {
+        "painterId": "2",
+        "firstName": "James",
+        "lastName": "Joshwin",
+        "phoneNumber": "0876653431",
+        "email": "jamesjoshwin@email.com",
+        "streetAddress": "5 Test Road",
+        "city": "Cape Town",
+        "province": "WC",
+        "postalCode": "7665",
+        "description": "A highly skilled painter specializing in exterior painting"
+    },
+    {
+        "painterId": "3",
+        "firstName": "Kyle",
+        "lastName": "Koopman",
+        "phoneNumber": "087665355",
+        "email": "jamesjoshwin@email.com",
+        "streetAddress": "6 Test Road",
+        "city": "Cape Town",
+        "province": "WC",
+        "postalCode": "7665",
+        "description": "A highly skilled painter specializing in exterior painting"
+    },
+    {
+        "painterId": "4",
+        "firstName": "Lerato",
+        "lastName": "Moshabi",
+        "phoneNumber": "087665332",
+        "email": "leratoflash@gmail.com",
+        "streetAddress": "7 Test Road",
+        "city": "Cape Town",
+        "province": "WC",
+        "postalCode": "7665",
+        "description": "A highly skilled painter with over 20 years of painting experience",
+        "image": "lerato.jpeg"
+
+    }
+]
