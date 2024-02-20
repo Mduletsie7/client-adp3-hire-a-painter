@@ -20,4 +20,6 @@ function App() {
   );
 }
 
+This should cause a fail
+
 export default App;
